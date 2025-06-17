@@ -38,9 +38,11 @@ The main goal of this project is to demonstrate:
 
 ## 📂 Repository Structure
 
+```
 ├── Fase2_ThiagoNey_2025.ipynb   # Python source code
 ├── glc_input.txt                # Input datasets and generated outputs
 ├── README.md                    # Project description (this file)
+```
 
 ## 🧑‍💻 How to Run
 
