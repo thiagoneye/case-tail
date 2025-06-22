@@ -40,7 +40,7 @@ The main goal of this project is to demonstrate:
 
 ```
 ├── Fase2_ThiagoNey_2025.ipynb   # Python source code
-├── glc_input.txt                # Input datasets and generated outputs
+├── glc_input.txt                # Input datasets
 ├── README.md                    # Project description (this file)
 ```
 
